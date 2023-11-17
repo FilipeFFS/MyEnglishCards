@@ -1,0 +1,14 @@
+C:\PersonalProjects\MyEnglishCards\bin\Debug\net6.0\MyEnglishCards.exe
+C:\PersonalProjects\MyEnglishCards\bin\Debug\net6.0\MyEnglishCards.deps.json
+C:\PersonalProjects\MyEnglishCards\bin\Debug\net6.0\MyEnglishCards.runtimeconfig.json
+C:\PersonalProjects\MyEnglishCards\bin\Debug\net6.0\MyEnglishCards.dll
+C:\PersonalProjects\MyEnglishCards\bin\Debug\net6.0\MyEnglishCards.pdb
+C:\PersonalProjects\MyEnglishCards\obj\Debug\net6.0\MyEnglishCards.GeneratedMSBuildEditorConfig.editorconfig
+C:\PersonalProjects\MyEnglishCards\obj\Debug\net6.0\MyEnglishCards.AssemblyInfoInputs.cache
+C:\PersonalProjects\MyEnglishCards\obj\Debug\net6.0\MyEnglishCards.AssemblyInfo.cs
+C:\PersonalProjects\MyEnglishCards\obj\Debug\net6.0\MyEnglishCards.csproj.CoreCompileInputs.cache
+C:\PersonalProjects\MyEnglishCards\obj\Debug\net6.0\MyEnglishCards.dll
+C:\PersonalProjects\MyEnglishCards\obj\Debug\net6.0\refint\MyEnglishCards.dll
+C:\PersonalProjects\MyEnglishCards\obj\Debug\net6.0\MyEnglishCards.pdb
+C:\PersonalProjects\MyEnglishCards\obj\Debug\net6.0\MyEnglishCards.genruntimeconfig.cache
+C:\PersonalProjects\MyEnglishCards\obj\Debug\net6.0\ref\MyEnglishCards.dll
